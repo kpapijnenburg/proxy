@@ -10,7 +10,7 @@ pool:
   vmImage: "ubuntu-latest"
 
 variables:
-  imageName: notes-portal
+  imageName: proxy
   dockerHubId: koenpijnenburg
   containerRegistry: DockerHub
 
